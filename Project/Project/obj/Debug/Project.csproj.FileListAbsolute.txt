@@ -1,0 +1,209 @@
+K:\Web Development\Project\Project\bin\roslyn\csc.exe
+K:\Web Development\Project\Project\bin\roslyn\csc.exe.config
+K:\Web Development\Project\Project\bin\roslyn\csc.rsp
+K:\Web Development\Project\Project\bin\roslyn\csi.exe
+K:\Web Development\Project\Project\bin\roslyn\csi.rsp
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Web Development\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Web Development\Project\Project\bin\roslyn\System.AppContext.dll
+K:\Web Development\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+K:\Web Development\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Web Development\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+K:\Web Development\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Web Development\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+K:\Web Development\Project\Project\bin\roslyn\vbc.exe
+K:\Web Development\Project\Project\bin\roslyn\vbc.exe.config
+K:\Web Development\Project\Project\bin\roslyn\vbc.rsp
+K:\Web Development\Project\Project\bin\roslyn\VBCSCompiler.exe
+K:\Web Development\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+K:\Web Development\Project\Project\bin\Project.dll.config
+K:\Web Development\Project\Project\bin\Project.dll
+K:\Web Development\Project\Project\bin\Project.pdb
+K:\Web Development\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Web Development\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Web Development\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+K:\Web Development\Project\Project\obj\Debug\Project.dll
+K:\Web Development\Project\Project\obj\Debug\Project.pdb
+E:\Web Development\Project\Project\bin\roslyn\csc.exe
+E:\Web Development\Project\Project\bin\roslyn\csc.exe.config
+E:\Web Development\Project\Project\bin\roslyn\csc.rsp
+E:\Web Development\Project\Project\bin\roslyn\csi.exe
+E:\Web Development\Project\Project\bin\roslyn\csi.rsp
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Web Development\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Development\Project\Project\bin\roslyn\System.AppContext.dll
+E:\Web Development\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Development\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Web Development\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+E:\Web Development\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Web Development\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Development\Project\Project\bin\roslyn\vbc.exe
+E:\Web Development\Project\Project\bin\roslyn\vbc.exe.config
+E:\Web Development\Project\Project\bin\roslyn\vbc.rsp
+E:\Web Development\Project\Project\bin\roslyn\VBCSCompiler.exe
+E:\Web Development\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Development\Project\Project\bin\Project.dll.config
+E:\Web Development\Project\Project\bin\Project.dll
+E:\Web Development\Project\Project\bin\Project.pdb
+E:\Web Development\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Development\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Development\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\Web Development\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Web Development\Project\Project\obj\Debug\Project.csproj.CopyComplete
+E:\Web Development\Project\Project\obj\Debug\Project.dll
+E:\Web Development\Project\Project\obj\Debug\Project.pdb
+C:\Users\micha\Desktop\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Project\Project\Project\obj\Debug\Project.dll
+C:\Users\micha\Desktop\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\csc.exe
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\csc.rsp
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\csi.exe
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\csi.rsp
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\vbc.exe
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\micha\Desktop\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\micha\Desktop\Project\Project\Project\bin\Project.dll.config
+C:\Users\micha\Desktop\Project\Project\Project\bin\Project.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\Project.pdb
+C:\Users\micha\Desktop\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\micha\Desktop\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\micha\Desktop\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\csc.exe
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\csi.exe
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\Project.dll.config
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\Project.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\Project.pdb
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\obj\Debug\Project.dll
+C:\Users\Owner\Desktop\Collage\19-20\WebDisign\Project\Project\Project\obj\Debug\Project.pdb
+E:\Web Development\Project\Project\Project\bin\roslyn\csc.exe
+E:\Web Development\Project\Project\Project\bin\roslyn\csc.exe.config
+E:\Web Development\Project\Project\Project\bin\roslyn\csc.rsp
+E:\Web Development\Project\Project\Project\bin\roslyn\csi.exe
+E:\Web Development\Project\Project\Project\bin\roslyn\csi.rsp
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web Development\Project\Project\Project\bin\roslyn\System.AppContext.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web Development\Project\Project\Project\bin\roslyn\vbc.exe
+E:\Web Development\Project\Project\Project\bin\roslyn\vbc.exe.config
+E:\Web Development\Project\Project\Project\bin\roslyn\vbc.rsp
+E:\Web Development\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+E:\Web Development\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+E:\Web Development\Project\Project\Project\bin\Project.dll.config
+E:\Web Development\Project\Project\Project\bin\Project.dll
+E:\Web Development\Project\Project\Project\bin\Project.pdb
+E:\Web Development\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web Development\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web Development\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\Web Development\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+E:\Web Development\Project\Project\Project\obj\Debug\Project.dll
+E:\Web Development\Project\Project\Project\obj\Debug\Project.pdb
+K:\Web Development\Project\Project\Project\bin\roslyn\csc.exe
+K:\Web Development\Project\Project\Project\bin\roslyn\csc.exe.config
+K:\Web Development\Project\Project\Project\bin\roslyn\csc.rsp
+K:\Web Development\Project\Project\Project\bin\roslyn\csi.exe
+K:\Web Development\Project\Project\Project\bin\roslyn\csi.rsp
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Web Development\Project\Project\Project\bin\roslyn\System.AppContext.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+K:\Web Development\Project\Project\Project\bin\roslyn\vbc.exe
+K:\Web Development\Project\Project\Project\bin\roslyn\vbc.exe.config
+K:\Web Development\Project\Project\Project\bin\roslyn\vbc.rsp
+K:\Web Development\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+K:\Web Development\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+K:\Web Development\Project\Project\Project\bin\Project.dll.config
+K:\Web Development\Project\Project\Project\bin\Project.dll
+K:\Web Development\Project\Project\Project\bin\Project.pdb
+K:\Web Development\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Web Development\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Web Development\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+K:\Web Development\Project\Project\Project\obj\Debug\Project.dll
+K:\Web Development\Project\Project\Project\obj\Debug\Project.pdb

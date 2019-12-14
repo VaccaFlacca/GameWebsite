@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Project.Site1" %>
+
+<!DOCTYPE html>
+
+<link rel="stylesheet" type="text/css" href="./StyleSheets/Sidebar-middle.css" />
+<link rel="stylesheet" type="text/css" href="./Content/bootstrap-grid.css"/>
+<link rel="stylesheet" type="text/css" href="./Content/bootstrap-grid.min.css" />
+<link rel="stylesheet" type="text/css" href="./Content/bootstrap-reboot.css"/>
+<link rel="stylesheet" type="text/css" href="./Content/bootstrap.css"/>
+<link rel="stylesheet" type="text/css" href="./Content/bootstrap.min.css" />
+
+<html>
+<head runat="server">
+    
+    <title>Game Of The Year</title>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color:dimgrey">
+    <form id="form1"  runat="server">
+        
+
+       <div class="container-fluid">
+            <div class="row" style="height:35px">
+                <div class="col-4" style="background-color:black">
+
+                </div>
+                <div class="col-2" style="background-color:black">
+                    <asp:Button ID="GameButton" Text="Game" runat="server" OnClick="GameButton_Click" style="width:100%;display:block" />
+                </div>
+                <div class="col-2" style="background-color:black">
+                    <asp:Button ID="Leaderboard" Text="Leaderboard" runat="server" OnClick="Leaderboard_Click" style="width:100%;display:block" />
+                    
+                </div>
+                <div class="col-2" style="background-color:black">
+                    <asp:Button ID="profile" Text="Profile" runat="server" OnClick="profile_Click" style="width:100%;display:block" />
+                    
+                </div>
+                <div class="col-2" style="background-color:black;">
+                    <div>
+
+                        <asp:Button ID="SignIn" Text="Sign In/Out" runat="server" OnClick="SignIn_Click" style="width:100%;display:block" />
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
+
+
+        <div class="container-fluid" style="height:100%">
+            <div class="row">
+                <div class="col-2" style="background-color:firebrick; width:160px; height:100%; display:block">
+                    <div>
+                        
+                    </div>
+                </div>
+
+                <div class="col-8" style="background-color:Highlight;height:100%;">
+                  
+                        <asp:ContentPlaceHolder  ID="ContentPlaceHolder1" runat="server">
+           
+                
+                        </asp:ContentPlaceHolder>
+                    
+                </div>
+
+                <div class="col-2" style="background-color:firebrick;width:160px;height:100%; display:block">
+                    <div >
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+    </form>
+</body>
+</html>
